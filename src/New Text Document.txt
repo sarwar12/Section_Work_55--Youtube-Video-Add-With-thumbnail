@@ -1,0 +1,12 @@
+### Youtube video thumbnail tricks:
+	https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api
+
+### Set youtube thumbnail photo:
+	https://img.youtube.com/vi/eN6AYHAT8UM/hqdefault.jpg
+	
+	Formats:::
+	default.jpg --> 120 x 90 pixel
+	mqdefault.jpg --> 320 x 180 pixel
+	hqdefault.jpg --> 480 x 360 pixel
+	sddefault.jpg --> 640 x 480 pixel
+	maxresdefault.jpg --> 1280 x 720 pixel
